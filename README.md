@@ -1,6 +1,6 @@
 # Image-Based Detection of Rice Leaf Diseases Using Deep CNN Models
 
-## Short Description
+## Description
 Implemented deep convolutional neural network (CNN) models to classify and detect rice leaf diseases from image data. Applied image preprocessing, training, and evaluation to develop an automated disease detection system with high accuracy.
 
 ## Features
