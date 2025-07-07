@@ -6,8 +6,8 @@ Implemented deep convolutional neural network (CNN) models to classify and detec
 ## Features
 - Image classification for rice leaf diseases  
 - Preprocessing techniques for image normalization  
-- Deep CNN model architecture with TensorFlow/Keras  
-- Performance evaluation using precision, recall, F1-score, and AUC  
+- Deep CNN model architecture with TensorFlow/Keras
+- Evaluation using error rate, accuracy, precision, recall, and F1-score
 - Comparison with traditional classifiers (Naive Bayes, Logistic Regression, SVM)  
 - Multiple train-test split evaluations (30:70, 40:60, 50:50, 60:40, 70:30)
 
@@ -21,7 +21,6 @@ Rice leaf disease dataset from Mendeley Data:
 - TensorFlow  
 - OpenCV  
 - scikit-learn  
-- Jupyter Notebook / Google Colab  
 
 ## Prerequisites
 - Python 3.11 or later  
